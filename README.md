@@ -1,6 +1,6 @@
 <img alt="where is my logo" src="./logo_transparent_background.png" width="50%" height="50%"/>
 
-> ForestVue - 숲의 관점에서 바라보는 사람들
+> ForestVue - 숲의 관점에서 보는 사람들
 
 
 안녕하세요. 저희는 현재 취준생이고 친구와 단 둘이 Vue.js 스터디를 진행하고 있습니다.
@@ -13,6 +13,16 @@
 
 [2 / 4] 이상 모일 시 스터디룸 예약 및 진행 예정
 
+## 기간
+모집 인원이 모이는대로 시작할 계획입니다.
+
+## 목표
+깃허브 활동 내역 남기기
+- Pull request
+- issue
+- Code review
+- Contribution
+
 ## 대상
 대학생 및 취업준비생
 
@@ -24,13 +34,12 @@
 
 ## 회비
 스터디룸 이용시 모임 2일 전 룸 예약비용 입금 (1인당 2,000원, **불참시 환불 X**) 
-## 진행
+
+## 진행 방식
 1. 모이기 전 사전 과제 Repository에 개별 branch를 만들고 코드를 작성한 뒤 Pull request. 
 2. Pull request 시 나머지 인원들을 code review 지정
 3. 한명 씩 돌아가면서 자신이 스터디했던 내용을 설명, 그동안 나머지 팀원들은 코드 리뷰 작성, 발표가 끝난 뒤 한명 씩 돌아가면서 작성한 코드 리뷰를 통해 피드백 진행
 4. 사전 과제 및 기타 질의응답
-
-
 
 ## 커리큘럼
 | Week       | Content       | 
