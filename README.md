@@ -33,16 +33,16 @@
 
 
 ## 커리큘럼
-| Week       | Content           | 
-| : -------------  :| -------------|
-| 1 | Component & Routing |
-| 2 | Data binding|
-| 3 | Event Handling|
-| 4 | Client-Server communitcation|
-| 5 | Component & Routing [ Advanced ] |
-| 6 | Data binding [ Advanced ] |
-| 7 | Event Handling [ Advanced ] |
-| 8 | Client-Server communitcation [ Advanced ]|
+| Week       | Content       | 
+| :-------------: | ------------- |
+| 1 | Component Routing                      |
+| 2 | Data binding                           |
+| 3 | Event Handling                         |
+| 4 | Client-Server communitcation |
+| 5 | Component Routing Advanced |
+| 6 | Data binding Advanced |
+| 7 | Event Handling Advanced |
+| 8 | Client-Server communitcation  Advanced |
 
 ## 이런 분들과 함께하고 싶습니다 :
 1. 상대방을 존중할 줄 아는 분 
