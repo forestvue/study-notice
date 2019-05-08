@@ -1,4 +1,5 @@
-![where is my logo?](./logo_transparent_background.png)
+<img alt="where is my logo" src="./logo_transparent_background.png" width="50%" height="50%"/>
+
 > ForestVue - 숲의 관점에서 바라보는 사람들
 
 
