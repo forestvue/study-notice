@@ -19,7 +19,7 @@
 ## 목표
 깃허브 활동 내역 남기기
 - Pull request
-- issue
+- Issue
 - Code review
 - Contribution
 
