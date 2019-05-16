@@ -50,13 +50,13 @@
 | Week       | Content       | 
 | :-------------: | ------------- |
 | 1 | Component Routing (05/15)                      |
-| 2 | Data binding & Client-Server communitcation (1)  (05/22 예정)                      |
-| 3 | Data binding & Client-Server communitcation (2)                         |
+| 2 | Data binding & Client-Server communication (1)  (05/22 예정)                      |
+| 3 | Data binding & Client-Server communication (2)                         |
 | 4 | Event Handling                         |
 | 5 | Component Routing Advanced |
 | 6 | Data binding Advanced |
 | 7 | Event Handling Advanced |
-| 8 | Client-Server communitcation Advanced |
+| 8 | Client-Server communication Advanced |
 
 ## 이런 분들과 함께하고 싶습니다 :
 1. 상대방을 존중할 줄 아는 분 
