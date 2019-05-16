@@ -17,6 +17,7 @@
 
 ## 기간
 총 8주간 진행할 예정이며 모집 인원이 모이는대로 시작할 계획입니다.
+** **
 
 ## 목표
 깃허브 활동 내역 남기기
@@ -38,16 +39,17 @@
 스터디룸 이용시 모임 2일 전 룸 예약비용 입금 (1인당 2,000원, **불참시 환불 X**) 
 
 ## 진행 방식
-1. 모이기 전 사전 과제 Repository에 개별 branch를 만들고 코드를 작성한 뒤 Pull request. 
-2. Pull request 시 나머지 인원들을 code review 지정
+1. 모이기 전 사전 과제 Repository를 clone
+2. 개별 branch를 만들고 코드를 작성한 뒤 Pull request. 
+3. Pull request 시 나머지 인원들을 code review 지정
 3. 한명 씩 돌아가면서 자신이 스터디했던 내용을 설명, 그동안 나머지 팀원들은 코드 리뷰 작성, 발표가 끝난 뒤 한명 씩 돌아가면서 작성한 코드 리뷰를 통해 피드백 진행
 4. 사전 과제 및 기타 질의응답
 
 ## 커리큘럼
 | Week       | Content       | 
 | :-------------: | ------------- |
-| 1 | Component Routing                      |
-| 2 | Data binding & Client-Server communitcation (1)                         |
+| 1 | Component Routing (05/15)                      |
+| 2 | Data binding & Client-Server communitcation (1)  (05/22 예정)                      |
 | 3 | Data binding & Client-Server communitcation (2)                         |
 | 4 | Event Handling                         |
 | 5 | Component Routing Advanced |
@@ -60,7 +62,7 @@
 2. 스터디 분위기를 이어나가고 싶은 분
 3. 3회 이상 불참하지 않는 분
 
-**추가(05/26)**
+**추가(05/16)**
 
-4. html,css,javascript 기초 지식이 있으신분 
+4. html, css, javascript 기초 지식이 있으신 분 
 5. git을 사용해본 경험이 있으신 분
