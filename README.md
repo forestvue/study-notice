@@ -47,16 +47,20 @@
 | Week       | Content       | 
 | :-------------: | ------------- |
 | 1 | Component Routing                      |
-| 2 | Data binding                           |
-| 3 | Event Handling                         |
-| 4 | Client-Server communitcation |
+| 2 | Data binding & Client-Server communitcation (1)                         |
+| 3 | Data binding & Client-Server communitcation (2)                         |
+| 4 | Event Handling                         |
 | 5 | Component Routing Advanced |
 | 6 | Data binding Advanced |
 | 7 | Event Handling Advanced |
-| 8 | Client-Server communitcation  Advanced |
+| 8 | Client-Server communitcation Advanced |
 
 ## 이런 분들과 함께하고 싶습니다 :
 1. 상대방을 존중할 줄 아는 분 
 2. 스터디 분위기를 이어나가고 싶은 분
 3. 3회 이상 불참하지 않는 분
 
+**추가(05/26)**
+
+4. html,css,javascript 기초 지식이 있으신분 
+5. git을 사용해본 경험이 있으신 분
