@@ -56,7 +56,7 @@
 | 1 | Component Routing (05/15)                      |
 | 2 | Data binding & Client-Server communication (05/22)                      |
 | 3 | Event Handling (05/29)                       |
-| 4 | Github repository discussion (6/5 예정)                       |
+| 4 | Github repository discussion (6/12 예정)                       |
 | 5 | Component Routing Advanced |
 | 6 | Data binding Advanced |
 | 7 | Event Handling Advanced |
