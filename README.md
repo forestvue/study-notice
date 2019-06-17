@@ -3,15 +3,14 @@
 > ForestVue - 숲의 관점에서 보는 사람들
 
 
-안녕하세요. 저희는 현재 취준생이고 친구와 단 둘이 Vue.js **오프라인 스터디**를 진행하고 있습니다.
- 뷰 초보자 스터디 함께 하실분을 찾고 있습니다. 관심 있으신분은 오픈채팅방으로 문의해주세요!
+안녕하세요. 프론트앤드 스터디를 모집중입니다.
 
 **밑에 상세 내용을 먼저 읽어주시면 감사하겠습니다!**
 
 [오픈채팅방 바로가기](https://open.kakao.com/o/gFqyNxob)
 
 ## 모집 인원
-최소 2명 ~ 6명, 현재 [ 3 / 6 ] 명
+최소 2명 ~ 6명
 
 [2 / 4] 이상 모일 시 스터디룸 예약 및 진행 예정
 
@@ -56,7 +55,7 @@
 | 1 | Component Routing (05/15)                      |
 | 2 | Data binding & Client-Server communication (05/22)                      |
 | 3 | Event Handling (05/29)                       |
-| 4 | Github repository discussion (6/12 예정)                       |
+| 4 | Github repository discussion (6/12)                       |
 | 5 | Component Routing Advanced |
 | 6 | Data binding Advanced |
 | 7 | Event Handling Advanced |
